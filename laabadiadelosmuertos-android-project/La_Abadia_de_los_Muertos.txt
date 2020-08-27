@@ -1,0 +1,53 @@
+/* GPL v3 license */
+
+L'Abbaye des Morts
+The Abbey of the Dead
+La Abadia de los Muertos
+
+
+Versión Original por LOCOMALITO	
+Original Version by LOCOMALITO
+
+Musica por GRYZOR87
+Music by GRYZOR87
+
+Versión de Linux por David NEVAT Lara
+Linux version by David NEVAT Lara
+
+Versión Modificada por PIPAGERARDO	
+Versión Modified by PIPAGERARDO
+
+Si tocas la pantalla táctil esta se activara.
+Toca en la parte superior derecha de la pantalla para desactivarla.
+Pulsa en la parte superior izquierda para volver o quitar el juego.
+
+En menús:
+Arriba:    Comenzar o continuar.
+Abajo:     Cambia el modo gráfico.
+Izquierda: Cambia el idioma.
+Derecha:   Información.
+
+Durante el juego:
+Arriba:    Saltar.
+Abajo:     Agacharse.
+Izquierda: Izquierda.
+Derecha:   Derecha.
+
+--------------------------------------------------------------------
+
+If you touch the touch screen will activate this.
+Tap at the top right of the screen to clear it.
+Click on the upper left to return or quit the game.
+
+In menus:
+Up:		Start or continue.
+Down:		Change the graphics mode.
+Left:		Change the language.
+Right:	Information.
+
+During the game:
+Up: 		Jump.
+Down: 	Crouch.
+Left: 	Left.
+Right: 	Right.
+
